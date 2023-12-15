@@ -26,7 +26,7 @@
         "audios"
       ]
     },
-    "duration": {
+    "keyYoutube": {
       "type": "string"
     },
     "audio": {
